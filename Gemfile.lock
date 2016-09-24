@@ -33,6 +33,7 @@ GEM
     rubyzip (0.9.9)
     syntax (1.1.0)
     test-unit (2.5.5)
+    pg
     thin (1.7.0)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
