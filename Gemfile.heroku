@@ -19,7 +19,7 @@ gem 'rdoc-data', :platforms => :ruby_18
 gem 'test-unit', '~> 2.5.5'
 
 group :development, :test do
-  gem "sqlite3", :require => "sqlite3"
+  gem "pg"
 end
 
 group :production do
